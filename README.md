@@ -1,5 +1,18 @@
 
-Host link - https://porfolio-app.netlify.app/
+Host link - https://portfolio-app1.netlify.app/
+
+Screen-shot -
+Introduction Page:-
+![image](https://user-images.githubusercontent.com/92245005/188797419-d2ad22b6-922e-4f40-b13e-77992849b8cb.png)
+
+Project Page:-
+![image](https://user-images.githubusercontent.com/92245005/188797501-d5346cbb-a17e-4d29-a700-3a209c19fbb3.png)
+
+Blogs Page:-
+![image](https://user-images.githubusercontent.com/92245005/188797613-70fc0c6c-5352-4228-a106-3e4f74427f16.png)
+
+Feedback Pege:-
+![image](https://user-images.githubusercontent.com/92245005/188797772-ff3a3110-7a7b-4097-afd5-ce74a91d6660.png)
 
 
 
